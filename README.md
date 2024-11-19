@@ -22,7 +22,7 @@ python manage.py runserver
 
 
 
-<p align="center"> <b> 👉🏻 Created to Learn Django 👈🏻 <b> </p>
+<p align="center"> <b> 👉🏻 Created Using Django 👈🏻 <b> </p>
  
 <p align="center"> <b> 👷 Project Author: Harish K G<b> </p>
  
