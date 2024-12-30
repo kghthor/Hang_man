@@ -6,7 +6,7 @@ colorama
 coreschema
 Django
 django-braces
-django-js-asset
+django-js-asset 
 django-model-utils
 et-xmlfile
 fake-useragent
